@@ -1,0 +1,42 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    font-family:monospace;
+}
+#buttonbhaskara{
+    background-color: transparent;
+    text-align: center;
+    border:30px transparent;
+    box-shadow: 0px 2px 10px green;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: large
+} 
+#buttonraiz{
+    background-color: transparent;
+    text-align: center;
+    border:30px transparent;
+    box-shadow: 0px 2px 10px green;
+    margin: 10px;
+    font-size: large ;
+    border-radius: 5px;
+}
+#buttoncircun{
+    background-color: transparent;
+    text-align: center;
+    border:30px transparent;
+    box-shadow: 0px 2px 10px green;
+    margin: 10px;
+    font-size: large;
+    border-radius: 5px;
+} 
+#buttonVM{
+    background-color: transparent;
+    text-align: center;
+    border:30px transparent;
+    box-shadow: 0px 2px 10px green;
+    margin: 10px;
+    font-size: large;
+    border-radius: 5px;
+} 
+
